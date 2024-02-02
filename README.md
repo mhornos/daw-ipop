@@ -1,21 +1,3 @@
-# IPOP Miguel Ángel Hornos
+# IPOP Fitxa 1B: Perfil professional del títol [IPOP-Fitxa1b-Sa Palomera.docx](https://github.com/mhornos/daw-ipop/files/14136892/IPOP-Fitxa1b-Sa.Palomera.docx)
+# IPOP Fitxa 2B: Àmbits de coneixement (ICQP, UCs) [IPOP-Fitxa2b-Sa Palomera.docx](https://github.com/mhornos/daw-ipop/files/14136915/IPOP-Fitxa2b-Sa.Palomera.docx)
 
-![logo-institut-sapalomera](https://github.com/mhornos/daw-ipop/assets/147045217/f5d44aa3-48b7-4e1b-b43f-78d2df172a01)
-
-## INFORME PERSONAL D’ORIENTACIÓ PROFESSIONAL
-**NOM:** Miguel Ángel Hornos Granda
-
-**CICLE FORMATIU:** DAW - Sa Palomera
-
-1.	CURRÍCULUM VITAE COMPETENCIAL
-2.	PROJECCIÓ PROFESSIONAL 
-     - a.	Objectiu/s professional/s d’especialització
-     - b.	Itinerari de formació
-     - c.	Característiques de les empreses objectiu
-3.	PLA DE PROMOCIÓ PERSONAL
-     - a.	Estratègies 
-     - b.	Pla d’actuació
-
-**DATA DE L’INFORME:**
-
-**VIST-I-PLAU DEL TUTOR/A:**
