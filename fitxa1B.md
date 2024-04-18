@@ -2,22 +2,19 @@
 Descarregar fitxer: [IPOP-Fitxa1b-Sa Palomera.docx](https://github.com/mhornos/daw-ipop/files/14136892/IPOP-Fitxa1b-Sa.Palomera.docx)
 <br></br>
 
-### Identificació del títol:
+## Identificació del títol:
 | Nom: | Desenvolupament d’aplicacions web |
 |:--------------------- | :-------------------------------------- |
 | Nivell:                                    | Formació Professional de Grau Superior                                       |
 | Família Professional:                      | Informàtica i comunicacions                                                  |
 | Durada:                                    | 2000 hores                                                                   |
 
-<br></br>
 
-
-### Competència general:
+## Competència general:
 La competència general d’aquest títol consisteix a desenvolupar, implantar i mantenir aplicacions web, amb independència del model emprat i utilitzant tecnologies específiques, garantint l’accés a les dades de forma segura i complint els criteris d’accessibilitat, usabilitat i qualitat exigides en els estàndards establerts.
-<br></br>
 
 
-### Capacitats clau
+## Capacitats clau
 Són les capacitats transversals que afecten diferents llocs de treball i que són transferibles a noves situacions de treball. Entre aquestes capacitats destaquen les d’autonomia, d’innovació, d’organització del treball, de responsabilitat, de relació interpersonal, de treball en equip i de resolució de problemes.
 L’equip docent ha de potenciar l’adquisició de les competències professionals, personals i socials i de les capacitats clau a partir de les activitats programades per desplegar el currículum d’aquest cicle formatiu.
 
@@ -25,7 +22,7 @@ Configurar i explotar sistemes informàtics, gestionar bases de dades relacional
 desenvolupar elements software a l’entorn servidor, implementar, verificar i documentar aplicacions web en entorns internet, intranet i extranet.
 <br></br>
 
-### Mòduls professionals del cicle:
+## Mòduls professionals del cicle:
 |Mòduls professionals|Hores de durada|
 :--------------------|:---------------
 MP1. Sistemes Informatics|132|
@@ -43,17 +40,14 @@ MP12. Projecte|297|
 MP13. Formació en centres de treball|383|
 
 <br></br>
-
-
-### Amb el títol que obtindràs, quina feina podràs fer?
+## Amb el títol que obtindràs, quina feina podràs fer?
 - Programador Web.
 - Programador Multimèdia.
 - Administrador i Desenvolupador d'Aplicacions a Entorns Web.
 - Especialista en Analítica Web.
 <br></br>
 
-
-### Concreta com a mínim 3 exemples d’empreses referents a les 3 ocupacions o llocs de treball citats anteriorment:
+## Concreta com a mínim 3 exemples d’empreses referents a les 3 ocupacions o llocs de treball citats anteriorment:
 - Google
 - Facebook
 - Apple
@@ -63,7 +57,7 @@ MP13. Formació en centres de treball|383|
 <br></br>
 
 
-### Competències personals:
+## Competències personals:
 1. Adaptabilitat i Formació Continua: La capacitat d'adaptar-se a noves situacions laborals implica mantenir coneixements actualitzats en el camp professional mitjançant la gestió proactiva de la formació i l'ús de les tecnologies de la informació i la comunicació per a l'aprenentatge al llarg de la vida.
 
 1. Resolució de Problemes i Innovació: Habilitat per abordar situacions, problemes o contingències amb iniciativa i autonomia, utilitzant la creativitat, la innovació i l'esperit de millora tant en el treball individual com en el col·lectiu d'un equip.
@@ -82,7 +76,7 @@ MP13. Formació en centres de treball|383|
 <br></br>
 
 
-### Competències professionals:
+## Competències professionals:
 1. Configurar i explotar sistemes informàtics, adaptant la configuració lògica del sistema segons les necessitats d’ús i els criteris establerts.
 
 1. Aplicar tècniques i procediments relacionats amb la seguretat en sistemes, serveis i aplicacions, complint el pla de seguretat.
