@@ -1,5 +1,5 @@
 # IPOP Fitxa 2B: Àmbits de coneixement (ICQP, UCs):
-Veure fitxer: [IPOP-Fitxa2b-Sa Palomera.docx](https://github.com/mhornos/daw-ipop/blob/main/fitxers/IPOP-Fitxa2b-Sa%20Palomera.pdf)
+Veure fitxer: [IPOP-Fitxa2b-Sa Palomera.pdf](https://github.com/mhornos/daw-ipop/blob/main/fitxers/IPOP-Fitxa2b-Sa%20Palomera.pdf)
 
 <br></br>
 
