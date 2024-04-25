@@ -1,5 +1,5 @@
 # IPOP Fitxa 1B: Perfil professional del títol
-Descarregar fitxer: [IPOP-Fitxa1b-Sa Palomera.docx](https://github.com/mhornos/daw-ipop/files/14136892/IPOP-Fitxa1b-Sa.Palomera.docx)
+Veure fitxer: [IPOP-Fitxa1b-Sa Palomera.pdf](https://github.com/mhornos/daw-ipop/blob/main/fitxers/IPOP-Fitxa1b-Sa%20Palomera.pdf)
 
 <br></br>
 
